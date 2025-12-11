@@ -13,6 +13,8 @@ Thank you for your understanding.
 This URL is the result of a typographical error (a missing hyphen) in a version of a published document. This error was detected on 2025-09-11. Apologies for any confusion this may have caused.
 
 Please find the correct repository at the following address (note: contains the same restriction notice):
-`https://github.com/VANET-Istanbul-Sybil-Attack-Dataset/dataset-src`
+```
+https://github.com/VANET-Istanbul-Sybil-Attack-Dataset/dataset-src
+```
 
 Alternatively, please refer to the link provided in the notes of the official published paper.
