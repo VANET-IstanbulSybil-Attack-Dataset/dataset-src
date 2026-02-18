@@ -1,20 +1,17 @@
-## Important Notice Regarding Data and Code Availability
+## Do not use or cite this work
 
-Access to the data and code in **the target repository** (see below) is **strictly restricted by the owner**.
+As the dataset owner and original author, I did not authorize the publication of the associated article.
 
-This action was taken to protect **intellectual property rights** following the unauthorized publication of the associated article. A formal inquiry regarding authorship and intellectual property rights is being addressed through **official institutional channels**. Consequently, the resources will not be made available for this publication.
+> [!WARNING]
+> I am actively pursuing the permanent **removal of this article** from the journal.
 
-Contrary to claims made in any external publication linking here, these resources **are not available** and will not be provided.
+### Data is restricted for all use cases due to Copyright Protections
 
----
+Access to the data and code in this repository is strictly restricted by the owner.
 
-#### Additional Note: Incorrect Repository URL
+This action was taken to protect intellectual property rights following the unauthorized publication of the associated article. A formal inquiry regarding authorship and intellectual property rights is being addressed through official institutional channels. Consequently, the resources will not be made available for this publication.
 
-This URL is the result of a typographical error (a missing hyphen) in a version of a published document. This error was detected on 2025-09-11. Apologies for any confusion this may have caused.
+Contrary to claims made in any external publication linking here, these resources are not available and will not be provided.
 
-Please find the correct repository at the following address (note: contains the same restriction notice):
-```
-https://github.com/VANET-Istanbul-Sybil-Attack-Dataset/dataset-src
-```
-
-Alternatively, please refer to the link provided in the notes of the official published paper.
+> [!WARNING]
+> The **dataset dump files** (specifically the six .xz files, totaling approximately 93 GB) are **subject to copyright infringement claims.**
