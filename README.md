@@ -1,3 +1,8 @@
+> [!WARNING]
+> This URL is the result of a typographical error (a missing hyphen) in a version of a published document.
+> Please find the correct repository at the following address:
+> https://github.com/VANET-Istanbul-Sybil-Attack-Dataset/dataset-src
+
 ## Do not use or cite this work
 
 As the dataset owner and original author, I did not authorize the publication of the associated article.
